@@ -5,7 +5,7 @@
  * Version: 1.0
  * Author: Massamba MBAYE
  * Author URI: https://www.linkedin.com/in/massamba-mbaye/
- * Plugin URI: https://im-mass.com/
+ * Plugin URI: https://github.com/massamba-mbaye/disable-comments-plugin
  * License: GPL-2.0+
  * Text Domain: disable-comments-plugin
  * Domain Path: /languages/
